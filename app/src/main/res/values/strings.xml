@@ -3,4 +3,5 @@
     <string name="your_star">당신의 별을 선택해주세요</string>
     <string name="main_title">Dive 2 U</string>
     <string name="no_star">당신의 별이 없다면?</string>
+    <string name="done">DONE</string>
 </resources>

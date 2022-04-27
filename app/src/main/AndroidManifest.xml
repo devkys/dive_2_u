@@ -10,10 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Dive_u">
         <activity
-            android:name="com.example.dive_2_u.RegisterActivity"
+            android:name=".no_star"
             android:exported="false" />
         <activity
-            android:name="com.example.dive_2_u.MainActivity"
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
