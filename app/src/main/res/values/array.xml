@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="star">
+        <item textSize="40sp">BTS</item>
+        <item>NCT</item>
+        <item>TWICE</item>
+        <item>ITZY</item>
+        <item>IVE</item>
+        <item>OH MY GIRL</item>
+        <item>ENHYPEN</item>
+        <item>AESPA</item>
+        <item>(G)I-DLE</item>
+        <item>ASTRO</item>
+        <item>BLACK PINK</item>
+        <item>VIVIZ</item>
+    </string-array>
+
+
+</resources>
